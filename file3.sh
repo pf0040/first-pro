@@ -6,4 +6,6 @@ print "What is your pin?"
 read pin
 print "Are you sure Mr. $name that this is your pin $pin?"
 read remark
-print "Thanks for using whatApp"01~
+print "Thanks for using whatApp"
+echo "modification done"
+echo "resend it to github"
